@@ -21,7 +21,7 @@ public class ReadingList {
 
 	/**
 	 * <h1>Clean Code: A Handbook of Agile Software Craftsmanship</h1>
-	 * 
+	 * <a href="http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882">Clean Code On Amazon</a>
 	 */
 
 	/**
