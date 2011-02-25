@@ -50,16 +50,26 @@
 
 # Books To Reading #
 
-Design Patterns
-Apache Tomcat 6
-Practices Of an Agile Developer
-Ship It
-Release It
-Test Driven
-Refactoring To Patterns
-Programming Scale
-SQl Anti-patterns
-Java Reloaded
-Beautiful Architecture
-Patterns Of Enterprise - Application Architecture
-Enterprise Integration patterns
+### Apache Tomcat 6 ###
+
+### Practices Of an Agile Developer ###
+
+### Ship It ###
+
+### Release It ###
+
+### Test Driven ###
+
+### Refactoring To Patterns ###
+
+### Programming Scale ###
+
+### SQl Anti-patterns ###
+
+### Java Reloaded ###
+
+### Beautiful Architecture ###
+
+### Patterns Of Enterprise - Application Architecture ###
+
+### Enterprise Integration patterns ###
