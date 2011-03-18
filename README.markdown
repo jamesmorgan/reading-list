@@ -47,6 +47,11 @@
 
 # Books Reading #
 
+### Agile Retrospectives: Making Good Teams Great (Pragmatic Programmers) ###
+* Author: Esther Derby (Author), Diana Larsen (Author), Ken Schwaber (Author) 
+* Webiste: http://pragprog.com/titles/dlret/agile-retrospectives
+* <a href="http://www.amazon.co.uk/Agile-Retrospectives-Making-Pragmatic-Programmers/dp/0977616649/ref=sr_1_1?ie=UTF8&qid=1300450047&sr=8-1">Purchase On Amazon</a>
+
 
 # Books To Reading #
 
