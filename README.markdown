@@ -1,6 +1,6 @@
-# Books Read #
+# Books Read Past & Present #
 
-* * * *
+---------------------------------------
 
 ### Head First Design Patterns ###
 * Author: Elisabeth Freeman, Eric Freeman, Bert Bates, Kathy Sierra
@@ -56,6 +56,8 @@
 * Webiste: http://pragprog.com/book/pad/practices-of-an-agile-developer
 * <a href="http://www.amazon.com/Practices-Agile-Developer-Pragmatic-Bookshelf/dp/097451408X">Purchase On Amazon</a>
 
+---------------------------------------
+
 # Books Reading #
 
 ### Release It ###
@@ -64,13 +66,27 @@
 ### Ship It ###
 * Another Prag-prog book which should be good.
 
+---------------------------------------
+
 # Books To Read #
 
+### Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation ###
+* This looks good but dry, will probably need to read it in chunks. 
+
 ### Apache Tomcat 6 ###
+* By the time I get to read this I'll be using Tomcat 7?
 
 ### Test Driven ###
+* Would be nice to know more.
 
 ### Refactoring To Patterns ###
+* This is high on my list of books to read. 
+
+### Patterns Of Enterprise - Application Architecture ###
+* Everyone loves a patterns book.
+
+### Enterprise Integration patterns ###
+* A book I have used as reference before but never tried to sit down and read it back to back. 
 
 ### Programming Scale ###
 
@@ -79,7 +95,3 @@
 ### Java Reloaded ###
 
 ### Beautiful Architecture ###
-
-### Patterns Of Enterprise - Application Architecture ###
-
-### Enterprise Integration patterns ###
