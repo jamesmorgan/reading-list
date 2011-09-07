@@ -61,11 +61,12 @@
 ### Release It ###
 * Reading on and off when I get some free time. 
 
+### Ship It ###
+* Another Prag-prog book which should be good.
+
 # Books To Read #
 
 ### Apache Tomcat 6 ###
-
-### Ship It ###
 
 ### Test Driven ###
 
