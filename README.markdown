@@ -45,23 +45,27 @@
 * <a href="http://www.amazon.com/Implementation-Patterns-Kent-Beck/dp/0321413091/ref=sr_1_1?ie=UTF8&s=books&qid=1298636506&sr=1-1">Purchase On Amazon</a>
 
 
-# Books Reading #
-
 ### Agile Retrospectives: Making Good Teams Great (Pragmatic Programmers) ###
 * Author: Esther Derby (Author), Diana Larsen (Author), Ken Schwaber (Author) 
 * Webiste: http://pragprog.com/titles/dlret/agile-retrospectives
 * <a href="http://www.amazon.co.uk/Agile-Retrospectives-Making-Pragmatic-Programmers/dp/0977616649/ref=sr_1_1?ie=UTF8&qid=1300450047&sr=8-1">Purchase On Amazon</a>
 
 
-# Books To Reading #
+### Practices Of an Agile Developer ###
+* Author: Venkat Subramaniam and Andy Hunt
+* Webiste: http://pragprog.com/book/pad/practices-of-an-agile-developer
+* <a href="http://www.amazon.com/Practices-Agile-Developer-Pragmatic-Bookshelf/dp/097451408X">Purchase On Amazon</a>
+
+# Books Reading #
+
+### Release It ###
+* Reading on and off when I get some free time. 
+
+# Books To Read #
 
 ### Apache Tomcat 6 ###
 
-### Practices Of an Agile Developer ###
-
 ### Ship It ###
-
-### Release It ###
 
 ### Test Driven ###
 
