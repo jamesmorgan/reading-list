@@ -56,6 +56,10 @@
 * Webiste: http://pragprog.com/book/pad/practices-of-an-agile-developer
 * <a href="http://www.amazon.com/Practices-Agile-Developer-Pragmatic-Bookshelf/dp/097451408X">Purchase On Amazon</a>
 
+### Ship It ###
+* Author: Jared Richardson, Will Gwaltney, Jr
+* Webiste: http://pragprog.com/book/prj/ship-it
+
 ---------------------------------------
 
 # Books Reading #
@@ -63,12 +67,12 @@
 ### Release It ###
 * Reading on and off when I get some free time. 
 
-### Ship It ###
-* Another Prag-prog book which should be good.
-
 ---------------------------------------
 
 # Books To Read #
+
+### The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin Series) ###
+* Another uncle bob book, hoepfully its as good as the other ones. 
 
 ### Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation ###
 * This looks good but dry, will probably need to read it in chunks. 
