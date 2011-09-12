@@ -71,6 +71,9 @@
 
 # Books To Read #
 
+### The pragmatic programmer - The Pragmatic Programmer: From Journeyman to Master ###
+* http://pragprog.com/the-pragmatic-programmer
+
 ### The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin Series) ###
 * Another uncle bob book, hoepfully its as good as the other ones. 
 
