@@ -7,6 +7,8 @@
 * <a href="http://www.amazon.com/First-Design-Patterns-Elisabeth-Freeman/dp/0596007124/ref=sr_1_1?s=books&ie=UTF8&qid=1298636150&sr=1-1">Purchase On Amazon</a>
 
 
+### Android In Action - 2nd Edition ###
+
 ### Advanced Flex 3 ###
 * Author: Shashank Tiwari and Elad Elrom 
 * <a href="http://www.amazon.com/AdvancED-Flex-3-Shashank-Tiwari/dp/1430210273/ref=sr_1_1?s=books&ie=UTF8&qid=1298636202&sr=1-1">Purchase On Amazon</a>
@@ -60,12 +62,18 @@
 * Author: Jared Richardson, Will Gwaltney, Jr
 * Webiste: http://pragprog.com/book/prj/ship-it
 
+### Release It ###
+* Reading on and off when I get some free time. 
+
+### Growing Object Orientaed Software Guided By Tests ###
+* Authors: Steve Freeman & Nat Pryce
+
 ---------------------------------------
 
 # Books Reading #
 
-### Release It ###
-* Reading on and off when I get some free time. 
+### Test Driven ###
+* Would be nice to know more.
 
 ---------------------------------------
 
@@ -80,11 +88,7 @@
 ### Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation ###
 * This looks good but dry, will probably need to read it in chunks. 
 
-### Apache Tomcat 6 ###
-* By the time I get to read this I'll be using Tomcat 7?
-
-### Test Driven ###
-* Would be nice to know more.
+### Apache Tomcat 7 ###
 
 ### Refactoring To Patterns ###
 * This is high on my list of books to read. 
